@@ -1,8 +1,8 @@
 # Bitcoin-predictions-and-visualisations-capstone
 
-*This repo was forked from my University of Sydney's repo https://github.sydney.edu.au/mili2539/capstone-btc-group-23-2*
-
 #### UPDATE: I trained a Multilayer Neural Network classifier to predict the direction of change in 15-minute Bitcoin Price which achieved 94% accuracy ####
+
+Visualisations for predicted Bitcoin Price and model comparison were developed using Python's plotly, D3.js, Tableu and deployed to AWS S3 Buckets at https://s3-ap-southeast-2.amazonaws.com/capstone-bitcoin/prices/index.html#actualprice
 
 This project analyses the time-series of Bitcoin process and macro-economic factors that influence Bitcoin Price using data from 2011 to 2018. The datasets contain Bitcoin trading data (high,low,open,close,volume,marketcap) and 33 other features inlcluding sentiment (Google Trends), currency exchange rates, stock and commodity prices, internal Blockchain data, Bitcoin price technical indicators.
 
@@ -19,5 +19,4 @@ Deep Learning (Keras):
 Time-Series (Statsmodels): 
 * Autoregressive Integrated Moving Average model 
     
-Visualisations for predicted Bitcoin Price and model comparison were developed using Python's plotly, D3.js, Tableu and deployed to AWS S3 Buckets at https://s3-ap-southeast-2.amazonaws.com/capstone-bitcoin/prices/index.html#actualprice
 
