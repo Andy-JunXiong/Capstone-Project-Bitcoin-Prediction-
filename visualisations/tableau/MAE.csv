@@ -1,0 +1,2 @@
+ARIMA,ExtraTrees,LSTM,GRU,Ridge,ElasticNet,SupportVectorRegression,BayesianRidge,KNN,Lasso,XGBoost,MLP,LinearRegression,DecisionTree
+219.86,220.89,229.18,230.37,232.37,232.37,239.66,247.60,251.84,255.82,259.76,265.34,286.10,361.47
