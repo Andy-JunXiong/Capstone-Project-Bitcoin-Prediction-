@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated artifacts
+artifacts/*.json
+data/processed/*.csv
+reports/tables/*.csv
+reports/tables/*.json
+
+# Node
+node_modules/
+dataset/farm/node_modules/
