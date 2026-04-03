@@ -1,0 +1,11 @@
+{
+  "input_csv": "data/raw/sample_ohlcv.csv",
+  "output_features_csv": "data/processed/features.csv",
+  "output_labels_csv": "data/processed/labels.csv",
+  "train_start": "2018-01-01",
+  "train_end": "2020-12-31",
+  "test_start": "2021-01-01",
+  "test_end": "2021-12-31",
+  "prediction_csv": "reports/tables/predictions.csv",
+  "backtest_csv": "reports/tables/backtest_curve.csv"
+}
